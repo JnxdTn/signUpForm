@@ -91,7 +91,7 @@ form h1{
     height: 25px;
 }
 
-.form-inputs p input:valid {
+.form-inputs p input:valid{
     border-color: rgb(45, 131, 237);
     box-shadow: 2px 2px 10px 2px rgb(45, 131, 237, 10%);
 }
@@ -119,3 +119,8 @@ button{
     color: darkolivegreen;
     font-weight: bold;
 }
+
+.header p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
